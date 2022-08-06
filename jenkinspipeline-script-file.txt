@@ -16,7 +16,7 @@ node {
            
 		else {
                
-			build 'JenkinsPipeline'
+			build 'AUG06-jenkins-Github_rushtojp_jenkinsfile1.txt'
               
 			 echo 'Running on Stage #1'
            
